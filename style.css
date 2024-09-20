@@ -1,0 +1,17 @@
+.fifa {
+  max-width: 700px !important;
+  margin: 30px auto;
+  padding: 10px !important;
+}
+.logos {
+  max-width: !important;
+  justify-content: center;
+  gap: 120px !important;
+  max-width: 900px !important;
+  margin: 100px auto;
+}
+.cd {
+  max-width: 700px !important;
+  margin: 30px auto;
+  padding: 10px !important;
+}
